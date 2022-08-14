@@ -1,0 +1,7 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/ikebanto/ikbs_des_br
+	fetch = +refs/heads/*:refs/remotes/origin/*
